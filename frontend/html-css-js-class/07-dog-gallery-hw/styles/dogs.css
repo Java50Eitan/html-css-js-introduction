@@ -74,10 +74,11 @@ h2 {
 
 .details-title {
     display: block;
-    background-color: #DA2528;
+    background-color: #392fce6e;
     position: absolute;
     bottom: 4.0vh;
-    left: -2vw;
+    left: -10vw;
+    font-size: 40px;
 }
 
 .thumbnails-list {
